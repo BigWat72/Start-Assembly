@@ -1,3 +1,17 @@
+.footer {
+  width:100%;
+  height:20%;
+  position: bottom;
+  bottom:0;
+  left:0;
+  background-color:blue;
+}
+
+.footnav {
+  background-color: #333;
+  overflow: hidden;
+}
+          
           .breakerbreaker {
             padding-top: 50px;
             padding-right: 30px;
@@ -7,7 +21,7 @@
 
 
           .intro {
-            background-image: url(/SOAG/Cross_in_sunset.jpg) ;
+            background-image: url(/SOAG/newCrossBackground.jpg) ;
             background-position: center center;
             background-attachment: fixed;
             background-size: cover; 
